@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Take Me Dancing",
+  "base_artist": "Doja Cat",
+  "createdAt": "2025-12-28T16:21:56.897842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Take Me Dancing (Audiotree Live Version)",
+      "artist": "Sløtface",
+      "has_synced": false,
+      "path": "select/01_Take_Me_Dancing_(Audiotree_Live_Version)_Sløtface.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stolen Car (Take Me Dancing)",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/02_Stolen_Car_(Take_Me_Dancing)_Sting.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Take Me Dancing",
+      "artist": "Mauve feat. Anica Russo",
+      "has_synced": true,
+      "path": "select/03_Take_Me_Dancing_Mauve_feat._Anica_Russo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Take Me Dancing - Slowed & Reverbed",
+      "artist": "Mauve/Anica Russo",
+      "has_synced": true,
+      "path": "select/04_Take_Me_Dancing_-_Slowed_&_Reverbed_Mauve_Anica_Russo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stolen Car [Take Me Dancing]",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/05_Stolen_Car_[Take_Me_Dancing]_Sting.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stolen Car (Take Me Dancing) [Batson-Doc-will.i.am Remix]",
+      "artist": "Sting feat. will.i.am",
+      "has_synced": false,
+      "path": "select/06_Stolen_Car_(Take_Me_Dancing)_[Batson-Doc-will.i.am_Remix]_Sting_feat._will.i.am.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stolen Car [Take Me Dancing] [Batson - Doc - Will.I.Am Remix]",
+      "artist": "Sting",
+      "has_synced": false,
+      "path": "select/07_Stolen_Car_[Take_Me_Dancing]_[Batson_-_Doc_-_Will.I.Am_Remix]_Sting.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stolen Car (Take Me Dancing) [Radio Version]",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/08_Stolen_Car_(Take_Me_Dancing)_[Radio_Version]_Sting.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You Never Take Me Dancing",
+      "artist": "Richard Marx",
+      "has_synced": false,
+      "path": "select/09_You_Never_Take_Me_Dancing_Richard_Marx.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stolen Car [Take Me Dancing] [Radio Version]",
+      "artist": "Sting",
+      "has_synced": true,
+      "path": "select/10_Stolen_Car_[Take_Me_Dancing]_[Radio_Version]_Sting.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Me Dancing",
+      "artist": "Will Joseph Cook",
+      "has_synced": true,
+      "path": "select/11_Take_Me_Dancing_Will_Joseph_Cook.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Take Me Dancing (feat. SZA)",
+      "artist": "Doja Cat",
+      "has_synced": false,
+      "path": "select/pl_01_Take_Me_Dancing_(feat._SZA)_Doja_Cat.txt"
+    }
+  ]
+}
